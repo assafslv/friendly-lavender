@@ -7,10 +7,11 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: |
-      # Your neighborhood plant shop
+    content: |+
+      # Simple Japanese food delivered fresh
 
-      Spring is here, take 20% OFF 
+      WE USE NO MSG, GMO PRODUCTS. OUR PRODUCE ARE MOSTLY ORGANIC.
+
     actions:
       - title: See all items
         url: /store
