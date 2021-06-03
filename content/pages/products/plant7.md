@@ -4,7 +4,7 @@ id: '7'
 price: '18.90'
 title: Soba bowl
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/cody-chan-GXhmQt6MFX8-unsplash.jpg
+default_thumbnail_image: images/stefen-tan-_sfMD-OhFR8-unsplash.jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
 seo:
