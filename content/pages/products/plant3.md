@@ -4,7 +4,7 @@ id: '3'
 price: '150.00'
 title: Grilled unagi
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/cloris-ying-i4Ie3P_JlgU-unsplash.jpg
+default_thumbnail_image: images/cloris-ying-2BN5MlnLbdU-unsplash.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
