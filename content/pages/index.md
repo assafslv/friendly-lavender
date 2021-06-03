@@ -19,7 +19,7 @@ sections:
         style: primary
       - title: Pickup
         url: '#'
-        style: secondary
+        style: link
         arrow: false
         type: action
   - type: featured_products_section
