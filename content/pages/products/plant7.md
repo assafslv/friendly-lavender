@@ -2,7 +2,7 @@
 layout: product
 id: '7'
 price: '18.90'
-title: Soba bowl
+title: chicken katsu
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/stefen-tan-_sfMD-OhFR8-unsplash.jpg
 default_original_image: images/plant7-lg.jpg
