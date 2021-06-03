@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: Grilled unagi
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/cloris-ying-i4Ie3P_JlgU-unsplash.jpg
 default_original_image: images/plant3-lg.jpg
