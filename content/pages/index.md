@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/gabriel-forsberg-9sM53e9wTTY-unsplash.jpg
     background_image_opacity: 65
-    content: |+
-      # Japanese meals delivered daily
+    content: |
+      # Your neighborhood plant shop
 
-      WE USE NO MSG, GMO PRODUCTS. OUR PRODUCE IS MOSTLY ORGANIC.
-
+      Spring is here, take 20% OFF 
     actions:
       - title: See all items
         url: /store
