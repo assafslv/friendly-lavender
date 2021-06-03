@@ -13,7 +13,7 @@ sections:
       WE USE NO MSG, GMO PRODUCTS. OUR PRODUCE ARE MOSTLY ORGANIC.
 
     actions:
-      - title: See all items
+      - title: Order delivery
         url: /store
         arrow: true
         style: primary
