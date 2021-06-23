@@ -17,7 +17,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: Pickup
+      - title: Reservations
         url: '#'
         style: primary
         arrow: false
