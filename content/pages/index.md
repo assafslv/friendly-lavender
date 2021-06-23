@@ -7,9 +7,9 @@ sections:
     section_id: hero_section
     background_image: images/gabriel-forsberg-9sM53e9wTTY-unsplash.jpg
     background_image_opacity: 65
-    content: >
-      # Changing this title again&#xA;WE USE NO MSG, GMO PRODUCTS. OUR PRODUCE
-      ARE MOSTLY ORGANIC.
+    content: |+
+      # Title change for test
+
     actions:
       - title: Order delivery
         url: /store
